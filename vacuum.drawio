@@ -1,83 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T12:23:58.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="JIhUfDGbJo-DVynN4nub" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T12:40:50.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xd6lZXe1mxYJ47qGbmY0" version="20.3.2" type="github">
   <diagram id="EJDTuElmcnAi4WPFWQzJ" name="Page-1">
-    <mxGraphModel dx="1071" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-1" target="flRVxpR7cwWonaM8a4Yf-2">
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-1" target="flRVxpR7cwWonaM8a4Yf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-1" target="flRVxpR7cwWonaM8a4Yf-4">
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-1" target="flRVxpR7cwWonaM8a4Yf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-1" value="真空泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="790" y="76" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-2" value="气体传输（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="186" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-4" target="JQe-0Pjy612eNR-_QcZm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-4" value="气体粘合（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="186" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="flRVxpR7cwWonaM8a4Yf-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="426" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-6" value="往复容积式真空泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="flRVxpR7cwWonaM8a4Yf-2" target="flRVxpR7cwWonaM8a4Yf-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="160" />
-              <mxPoint x="840" y="160" />
+              <mxPoint x="570" y="296" />
+              <mxPoint x="480" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-1" value="真空泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-9" value="动能（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="970" y="346" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-2" target="flRVxpR7cwWonaM8a4Yf-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-2" target="flRVxpR7cwWonaM8a4Yf-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-2" value="气体传输（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-4" value="气体粘合（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-6" target="flRVxpR7cwWonaM8a4Yf-11">
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="flRVxpR7cwWonaM8a4Yf-2" target="flRVxpR7cwWonaM8a4Yf-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="430" />
-              <mxPoint x="80" y="430" />
+              <mxPoint x="570" y="296" />
+              <mxPoint x="1040" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-6" target="flRVxpR7cwWonaM8a4Yf-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-11" value="振荡式容积泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="flRVxpR7cwWonaM8a4Yf-15">
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="flRVxpR7cwWonaM8a4Yf-6" target="flRVxpR7cwWonaM8a4Yf-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="426" />
+              <mxPoint x="320" y="426" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-6" value="往复容积式真空泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-13" value="双转子式容积泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-9" value="动能（真空泵）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="flRVxpR7cwWonaM8a4Yf-6" target="flRVxpR7cwWonaM8a4Yf-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-11" value="振荡式容积泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-15" value="单转子容积式真空泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-13" value="双转子式容积泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-17" value="隔膜泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="546" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-15" value="单转子容积式真空泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-19" value="活塞泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="639" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-17" value="隔膜泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-20" value="涡旋泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="726" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-19" value="活塞泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-21" value="罗茨泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="546" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-20" value="涡旋泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-22" value="螺杆泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="636" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-21" value="罗茨泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-23" value="爪式活塞" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="726" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-22" value="螺杆泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-1" value="液体喷射正" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="542" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="flRVxpR7cwWonaM8a4Yf-23" value="爪式活塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-3" value="旋片泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-4" value="多单元泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="714" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-5" value="旋转活塞泵&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-6" value="外部叶片泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="886" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-8" value="机械动能泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-9" target="JQe-0Pjy612eNR-_QcZm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-10" value="气环泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-11" value="涡轮分子泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="637" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-12" value="轴向泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-13" value="径向泵&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="801" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-14" value="分子泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="882" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-15" value="涡轮分子泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="964" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-17" value="推进泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-9" target="JQe-0Pjy612eNR-_QcZm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-20" value="推进物喷射泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-21" value="液体喷射泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="637" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-22" value="气体喷射泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="719" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-23" value="蒸汽喷射泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="801" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-24" value="扩散泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="882" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-25" value="扩散喷射泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="970" y="964" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-26" value="离子传输泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="flRVxpR7cwWonaM8a4Yf-9" target="JQe-0Pjy612eNR-_QcZm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-28" value="吸附泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-35" value="吸气泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-36" value="巨大吸气泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-37" value="升华蒸发泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="659" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-38" value="离子吸气泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="761" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-39" value="低温泵" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="862" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQe-0Pjy612eNR-_QcZm-40" value="冷凝器" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="964" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

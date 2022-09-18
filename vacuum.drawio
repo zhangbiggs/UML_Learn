@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T12:21:00.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="7LeyJnOas6Hzj-cVFwKP" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T12:23:44.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="H1BUQInsTwFZMcsg0qs2" version="20.3.0" type="github">
   <diagram id="EJDTuElmcnAi4WPFWQzJ" name="Page-1">
-    <mxGraphModel dx="830" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,21 @@
         </mxCell>
         <mxCell id="flRVxpR7cwWonaM8a4Yf-17" value="隔膜泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-19" value="活塞泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-20" value="涡旋泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-21" value="罗茨泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-22" value="螺杆泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="flRVxpR7cwWonaM8a4Yf-23" value="爪式活塞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
